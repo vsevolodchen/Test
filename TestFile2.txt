@@ -3,3 +3,5 @@ This is new content of a test file.
 So how about we add something more?
 
 yes
+
+no
